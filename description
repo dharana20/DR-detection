@@ -1,0 +1,3 @@
+DR is a severe eye condition affecting most patients after 10–15 years of diabetes, often leading to vision loss.
+Manual screening is labor-intensive, inconsistent, and limited by specialist availability.
+CNN-based automated systems can learn DR indicators directly from fundus images, enabling efficient, reliable, and scalable detection and severity classification.
